@@ -6,11 +6,40 @@ p {
     font-size: 16px;
 }
 
-img {
+.gayyy {
     width: 55px;
     height: 40px;
 
     position: relative;
-    left: 15px;
+    left: 205px;
     top: 78px;
+}
+
+button {
+  border-radius: 4000px;
+}
+
+button {
+  width: 300px;
+  height: 50px;
+  font-size:20px;
+}
+
+h1 {
+  background-color: black;
+  color: white
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    position: relative;
+    bottom: 2px;
+    left: 2px;
+}
+
+img {
+    width: 500px;
 }
