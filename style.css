@@ -10,19 +10,19 @@ p {
     width: 55px;
     height: 40px;
 
-    position: relative;
-    left: 205px;
-    top: 78px;
+     display: block;
+  margin: 0 auto;
+  position: relative;
+  left: -20px;
+  top: 70px;
 }
 
 button {
-  border-radius: 4000px;
-}
-
-button {
-  width: 300px;
+    width: 300px;
   height: 50px;
   font-size:20px;
+   border-image: linear-gradient(to right, #ff00ea, #3240ff) 1;
+  border-width: 4px;
 }
 
 h1 {
@@ -42,4 +42,13 @@ a {
 
 img {
     width: 500px;
+}
+
+h2 {
+   color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: black;
 }
