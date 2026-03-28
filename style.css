@@ -41,14 +41,51 @@ a {
 }
 
 img {
-    width: 500px;
+    width: 300px;
+    
+      display: block;
+  margin: 0 auto;
+  position: relative;
+  top: -180px;
+  
 }
 
 h2 {
    color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 body {
     background-color: black;
 }
+
+button {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+} 
+
+.gayyy {
+  background-image: none;
+  border: none;
+}
+
+img {
+  border: none;
+  border-style: solid;
+  padding-bottom: 20px;
+  background-origin: border-box ;
+  background-image: url("yellowblack.png");
+
+}
+
+
+
+
+
+
+
